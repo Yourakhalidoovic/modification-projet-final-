@@ -6,12 +6,14 @@ import Home from "./Home";
 import Cart from "./Cart";
 import { CartProvider } from "react-use-cart";
 import Footer from "./Components/Navbar/Footer/Footer";
+import Hero from "./Hero";
 
 function App() {
   return (
     <>
       <CartProvider>
         <Navbar />
+        <Hero />
         <Home />
         <Cart />
         <Footer />
