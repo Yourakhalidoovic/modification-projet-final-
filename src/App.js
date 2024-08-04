@@ -9,6 +9,7 @@ import Footer from "./Components/Navbar/Footer/Footer";
 import Hero from "./Hero";
 
 function App() {
+  
   return (
     <>
       <CartProvider>

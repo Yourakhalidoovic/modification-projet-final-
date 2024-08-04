@@ -26,6 +26,18 @@ import img25 from "./img/img25.jpg";
 import img26 from "./img/img26.jpg";
 import img27 from "./img/img27.jpg";
 import img28 from "./img/img28.jpg";
+import img29 from "./img/img29.jpg";
+import img30 from "./img/img30.jpg";
+import img31 from "./img/img31.jpg";
+import img32 from "./img/img32.jpg";
+import img33 from "./img/img33.jpg";
+import img34 from "./img/img34.jpg";
+import img35 from "./img/img35.jpg";
+import img36 from "./img/img36.jpg";
+import img37 from "./img/img37.jpg";
+import img38 from "./img/img38.jpg";
+import img39 from "./img/img39.jpg";
+import img40 from "./img/img40.jpg";
 
 const data = {
   productData: [
@@ -218,12 +230,98 @@ const data = {
       desc: "veritable cuir",
       price: 35000,
     },
+
     {
       id: 28,
       img: img28,
       title: "Cartable katana ",
       desc: "veritable cuir",
       price: 35000,
+    },
+    {
+      id: 29,
+      img: img29,
+      title: "Parure Mont blanc ",
+      desc: "",
+      price: 12500,
+    },
+    {
+      id: 30,
+      img: img30,
+      title: "Parure Mont blanc ",
+      desc: "",
+      price: 12500,
+    },
+    {
+      id: 31,
+      img: img31,
+      title: "Parure Mont blanc ",
+      desc: "",
+      price: 12500,
+    },
+    {
+      id: 32,
+      img: img32,
+      title: "Parure Mont blanc ",
+      desc: "",
+      price: 12500,
+    },
+    {
+      id: 33,
+      img: img33,
+      title: "Parure Mont blanc",
+      desc: "",
+      price: 12500,
+    },
+    {
+      id: 34,
+      img: img34,
+      title: "Parure Mont blanc ",
+      desc: "",
+      price: 12500,
+    },
+    {
+      id: 35,
+      img: img35,
+      title: "Parure Mont blanc ",
+      desc: "",
+      price: 12500,
+    },
+    {
+      id: 36,
+      img: img36,
+      title: "Parure Mont blanc ",
+      desc: "",
+      price: 12500,
+    },
+    {
+      id: 37,
+      img: img37,
+      title: "Parure Mont blanc ",
+      desc: "",
+      price: 12500,
+    },
+    {
+      id: 38,
+      img: img38,
+      title: "Parure Mont blanc ",
+      desc: "",
+      price: 12500,
+    },
+    {
+      id: 39,
+      img: img39,
+      title: "Parure Mont blanc ",
+      desc: "",
+      price: 12500,
+    },
+
+    {
+      id: 40,
+      img: img40,
+      title: "Parure de stylo armani ",
+      desc: "",
+      price: 12000,
     },
   ],
 };
